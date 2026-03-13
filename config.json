@@ -1,11 +1,11 @@
 {
-    "token": "",
+    "token": "MTQ4MDU3Njc3ODU0MzMwMDYyOA.GuYcxO.cXvuT90xpzlV4E2VIewAuK13nBR-OBI5JoKxPE",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://kxrill:bmwi8kyrill@templatehub.bksxfyk.mongodb.net/?appName=TemplateHub",
     "excessCommands": {
         "other": true,
-        "hentai": true,
+        "hentai": false,
         "economy" : true
     },
     "categories": {
