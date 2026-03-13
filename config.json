@@ -1,8 +1,8 @@
 {
-    "token": "MTQ4MDU3Njc3ODU0MzMwMDYyOA.GkUla-.cl3Qz5t2NqAMYZaHZzQSnpmFksyZiYghMehLyU",
+    "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://kxrill:bmwi8kyrill@templatehub.bksxfyk.mongodb.net/?appName=TemplateHub",
+    "mongodbUri": "",
     "excessCommands": {
         "other": true,
         "hentai": false,
